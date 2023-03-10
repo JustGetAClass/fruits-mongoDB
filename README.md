@@ -1,3 +1,3 @@
 # fruits-mongoDB
 
-creating a mongoDB database using Nodejs
+creating a mongoDB database using Nodejs 
